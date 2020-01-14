@@ -1,4 +1,4 @@
-<?php namespace rainbow2019s\BasicHttpAuth\middleware;
+<?php namespace Rainbow2019s\BasicHttpAuth\middleware;
 
 use Closure;
 class BasicHttpAuth{
