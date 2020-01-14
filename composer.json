@@ -1,0 +1,34 @@
+{
+    "name": "rainbow2019s/basichttpauth",
+    "authors": [
+        {
+            "name": "hao.liu",
+            "email": "l.hao.2012@qq.com"
+        }
+    ],
+    "description":"Basic Http Auth",
+    "type": "library",
+    "keywords":["logger"],
+    "homepage": "https://github.com/rainbow2019s/basichttpauth",
+    "time":"2019-12-27",
+    "license": "MIT",
+    "support":{
+        "issues":"https://github.com/rainbow2019s/basichttpauth/issues",
+        "wiki":"https://github.com/rainbow2019s/baaichttpauth/wiki"
+    },
+
+    "minimum-stability":"dev",
+    "require": {
+ 
+    },
+    "autoload": {
+        "psr-4": {
+            "Rainbow2019s\\BasicHttpAuth\\": "src/"
+        }
+    },
+    "extra":{
+        "branch-alias":{
+            "dev-master":"1.0.x-dev"
+        }
+    }
+}
