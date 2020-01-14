@@ -1,5 +1,5 @@
 {
-    "name": "rainbow2019s/basichttpauth",
+    "name": "rainbow2019s/httpbasicauth",
     "authors": [
         {
             "name": "hao.liu",
@@ -9,12 +9,12 @@
     "description":"Basic Http Auth",
     "type": "library",
     "keywords":["logger"],
-    "homepage": "https://github.com/rainbow2019s/basichttpauth",
+    "homepage": "https://github.com/rainbow2019s/httpbasicauth",
     "time":"2019-12-27",
     "license": "MIT",
     "support":{
-        "issues":"https://github.com/rainbow2019s/basichttpauth/issues",
-        "wiki":"https://github.com/rainbow2019s/basichttpauth/wiki"
+        "issues":"https://github.com/rainbow2019s/httpbasicauth/issues",
+        "wiki":"https://github.com/rainbow2019s/httpbasicauth/wiki"
     },
 
     "minimum-stability":"dev",
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rainbow2019s\\BasicHttpAuth\\": "src/"
+            "Rainbow2019s\\HttpBasicAuth\\": "src/"
         }
     },
     "extra":{
